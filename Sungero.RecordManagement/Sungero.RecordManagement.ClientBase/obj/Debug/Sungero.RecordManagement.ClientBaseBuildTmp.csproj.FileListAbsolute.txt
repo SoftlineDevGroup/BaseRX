@@ -1,0 +1,6 @@
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.ClientBase\bin\Debug\Sungero.RecordManagement.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.ClientBase\bin\Debug\Sungero.RecordManagement.ClientBase.pdb
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.ClientBase\obj\Debug\Sungero.RecordManagement.ClientBaseBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.ClientBase\obj\Debug\Sungero.RecordManagement.ClientBase.g.resources
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.ClientBase\obj\Debug\Sungero.RecordManagement.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.ClientBase\obj\Debug\Sungero.RecordManagement.ClientBase.pdb

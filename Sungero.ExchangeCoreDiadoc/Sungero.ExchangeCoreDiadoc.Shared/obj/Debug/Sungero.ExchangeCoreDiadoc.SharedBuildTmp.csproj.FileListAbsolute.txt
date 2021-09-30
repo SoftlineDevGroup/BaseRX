@@ -1,0 +1,12 @@
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\bin\Debug\Sungero.ExchangeCoreDiadoc.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\bin\Debug\Sungero.ExchangeCoreDiadoc.Shared.pdb
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\bin\Debug\ru\Sungero.ExchangeCoreDiadoc.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.SharedBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.Shared.Module.resources
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.Shared.ModuleSystem.resources
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.Shared.Module.ru.resources
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.Shared.ModuleSystem.ru.resources
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.SharedBuildTmp.csproj.GenerateResource.Cache
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\ru\Sungero.ExchangeCoreDiadoc.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Shared\obj\Debug\Sungero.ExchangeCoreDiadoc.Shared.pdb

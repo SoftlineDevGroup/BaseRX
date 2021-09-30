@@ -1,0 +1,9 @@
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\bin\Debug\Sungero.ExchangeCoreDiadoc.Client.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\bin\Debug\Sungero.ExchangeCoreDiadoc.Client.pdb
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\Sungero.ExchangeCoreDiadoc.ClientBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\Sungero.ExchangeCoreDiadoc.Client_MarkupCompile.cache
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\Sungero.ExchangeCoreDiadoc.Client_MarkupCompile.lref
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\ModuleDataTemplates.baml
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\Sungero.ExchangeCoreDiadoc.Client.g.resources
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\Sungero.ExchangeCoreDiadoc.Client.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Client\obj\Debug\Sungero.ExchangeCoreDiadoc.Client.pdb

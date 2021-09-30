@@ -1,0 +1,7 @@
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\bin\Debug\Sungero.SmartProcessing.Server.dll
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\bin\Debug\Sungero.SmartProcessing.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\bin\Debug\Sungero.Workflow.Blocks.dll
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\bin\Debug\Sungero.Workflow.Blocks.xml
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\obj\Debug\Sungero.SmartProcessing.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\obj\Debug\Sungero.SmartProcessing.Server.dll
+C:\Dev\SC\BaseRX\Sungero.SmartProcessing\Sungero.SmartProcessing.Server\obj\Debug\Sungero.SmartProcessing.Server.pdb

@@ -1,0 +1,5 @@
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Server\bin\Debug\Sungero.FinancialArchiveUI.Server.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Server\bin\Debug\Sungero.FinancialArchiveUI.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Server\obj\Debug\Sungero.FinancialArchiveUI.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Server\obj\Debug\Sungero.FinancialArchiveUI.Server.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Server\obj\Debug\Sungero.FinancialArchiveUI.Server.pdb

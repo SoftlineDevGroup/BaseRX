@@ -1,0 +1,9 @@
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\bin\Debug\Sungero.DirectumRX.Client.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\bin\Debug\Sungero.DirectumRX.Client.pdb
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\Sungero.DirectumRX.ClientBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\Sungero.DirectumRX.Client_MarkupCompile.cache
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\Sungero.DirectumRX.Client_MarkupCompile.lref
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\ModuleDataTemplates.baml
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\Sungero.DirectumRX.Client.g.resources
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\Sungero.DirectumRX.Client.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Client\obj\Debug\Sungero.DirectumRX.Client.pdb

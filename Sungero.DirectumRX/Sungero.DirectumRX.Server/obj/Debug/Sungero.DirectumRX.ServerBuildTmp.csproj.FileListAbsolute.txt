@@ -1,0 +1,5 @@
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Server\bin\Debug\Sungero.DirectumRX.Server.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Server\bin\Debug\Sungero.DirectumRX.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Server\obj\Debug\Sungero.DirectumRX.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Server\obj\Debug\Sungero.DirectumRX.Server.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Server\obj\Debug\Sungero.DirectumRX.Server.pdb

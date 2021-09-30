@@ -1,0 +1,6 @@
+C:\Dev\SC\BaseRX\Sungero.FinancialArchive\Sungero.FinancialArchive.ClientBase\bin\Debug\Sungero.FinancialArchive.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchive\Sungero.FinancialArchive.ClientBase\bin\Debug\Sungero.FinancialArchive.ClientBase.pdb
+C:\Dev\SC\BaseRX\Sungero.FinancialArchive\Sungero.FinancialArchive.ClientBase\obj\Debug\Sungero.FinancialArchive.ClientBaseBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.FinancialArchive\Sungero.FinancialArchive.ClientBase\obj\Debug\Sungero.FinancialArchive.ClientBase.g.resources
+C:\Dev\SC\BaseRX\Sungero.FinancialArchive\Sungero.FinancialArchive.ClientBase\obj\Debug\Sungero.FinancialArchive.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchive\Sungero.FinancialArchive.ClientBase\obj\Debug\Sungero.FinancialArchive.ClientBase.pdb

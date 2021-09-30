@@ -1,0 +1,5 @@
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Server\bin\Debug\Sungero.Integration1C.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Server\bin\Debug\Sungero.Integration1C.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Server\obj\Debug\Sungero.Integration1C.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Server\obj\Debug\Sungero.Integration1C.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Server\obj\Debug\Sungero.Integration1C.Server.pdb

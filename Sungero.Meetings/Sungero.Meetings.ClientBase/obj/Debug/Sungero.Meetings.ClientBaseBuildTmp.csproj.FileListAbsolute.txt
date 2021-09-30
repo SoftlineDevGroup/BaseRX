@@ -1,0 +1,6 @@
+C:\Dev\SC\BaseRX\Sungero.Meetings\Sungero.Meetings.ClientBase\bin\Debug\Sungero.Meetings.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.Meetings\Sungero.Meetings.ClientBase\bin\Debug\Sungero.Meetings.ClientBase.pdb
+C:\Dev\SC\BaseRX\Sungero.Meetings\Sungero.Meetings.ClientBase\obj\Debug\Sungero.Meetings.ClientBaseBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Meetings\Sungero.Meetings.ClientBase\obj\Debug\Sungero.Meetings.ClientBase.g.resources
+C:\Dev\SC\BaseRX\Sungero.Meetings\Sungero.Meetings.ClientBase\obj\Debug\Sungero.Meetings.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.Meetings\Sungero.Meetings.ClientBase\obj\Debug\Sungero.Meetings.ClientBase.pdb

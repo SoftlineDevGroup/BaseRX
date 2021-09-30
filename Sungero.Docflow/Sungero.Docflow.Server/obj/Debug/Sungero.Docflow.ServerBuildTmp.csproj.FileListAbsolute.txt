@@ -1,0 +1,11 @@
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\Sungero.Docflow.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\Sungero.Docflow.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\FastReport.dll
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\NpoComputer.DpadCP.Converter.dll
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\NumToWords.dll
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\Sungero.Workflow.Blocks.dll
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\NpoComputer.DpadCP.Converter.pdb
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\bin\Debug\Sungero.Workflow.Blocks.xml
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\obj\Debug\Sungero.Docflow.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\obj\Debug\Sungero.Docflow.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Docflow\Sungero.Docflow.Server\obj\Debug\Sungero.Docflow.Server.pdb

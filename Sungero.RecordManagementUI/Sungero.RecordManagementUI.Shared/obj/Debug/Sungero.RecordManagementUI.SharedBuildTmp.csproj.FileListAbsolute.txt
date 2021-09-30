@@ -1,0 +1,11 @@
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\bin\Debug\Sungero.RecordManagementUI.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\bin\Debug\Sungero.RecordManagementUI.Shared.pdb
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\bin\Debug\ru\Sungero.RecordManagementUI.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.Shared.Module.resources
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.Shared.ModuleSystem.resources
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.Shared.Module.ru.resources
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.Shared.ModuleSystem.ru.resources
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.SharedBuildTmp.csproj.GenerateResource.Cache
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\ru\Sungero.RecordManagementUI.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Shared\obj\Debug\Sungero.RecordManagementUI.Shared.pdb

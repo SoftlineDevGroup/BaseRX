@@ -1,0 +1,9 @@
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\bin\Debug\Sungero.FinancialArchiveUI.Client.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\bin\Debug\Sungero.FinancialArchiveUI.Client.pdb
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\Sungero.FinancialArchiveUI.ClientBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\Sungero.FinancialArchiveUI.Client_MarkupCompile.cache
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\Sungero.FinancialArchiveUI.Client_MarkupCompile.lref
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\ModuleDataTemplates.baml
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\Sungero.FinancialArchiveUI.Client.g.resources
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\Sungero.FinancialArchiveUI.Client.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Client\obj\Debug\Sungero.FinancialArchiveUI.Client.pdb

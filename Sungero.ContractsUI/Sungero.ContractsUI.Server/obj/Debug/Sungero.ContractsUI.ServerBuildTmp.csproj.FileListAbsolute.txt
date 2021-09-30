@@ -1,0 +1,4 @@
+C:\Dev\SC\BaseRX\Sungero.ContractsUI\Sungero.ContractsUI.Server\bin\Debug\Sungero.ContractsUI.Server.dll
+C:\Dev\SC\BaseRX\Sungero.ContractsUI\Sungero.ContractsUI.Server\bin\Debug\Sungero.ContractsUI.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.ContractsUI\Sungero.ContractsUI.Server\obj\Debug\Sungero.ContractsUI.Server.dll
+C:\Dev\SC\BaseRX\Sungero.ContractsUI\Sungero.ContractsUI.Server\obj\Debug\Sungero.ContractsUI.Server.pdb

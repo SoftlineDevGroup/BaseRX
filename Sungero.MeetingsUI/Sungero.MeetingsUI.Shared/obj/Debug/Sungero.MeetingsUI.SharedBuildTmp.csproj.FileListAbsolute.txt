@@ -1,0 +1,12 @@
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\bin\Debug\Sungero.MeetingsUI.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\bin\Debug\Sungero.MeetingsUI.Shared.pdb
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\bin\Debug\ru\Sungero.MeetingsUI.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.SharedBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.Shared.Module.resources
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.Shared.ModuleSystem.resources
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.Shared.Module.ru.resources
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.Shared.ModuleSystem.ru.resources
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.SharedBuildTmp.csproj.GenerateResource.Cache
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\ru\Sungero.MeetingsUI.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.MeetingsUI\Sungero.MeetingsUI.Shared\obj\Debug\Sungero.MeetingsUI.Shared.pdb

@@ -1,0 +1,7 @@
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\bin\Debug\Sungero.ExchangeCore.Server.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\bin\Debug\Sungero.ExchangeCore.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\bin\Debug\Sungero.Workflow.Blocks.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\bin\Debug\Sungero.Workflow.Blocks.xml
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\obj\Debug\Sungero.ExchangeCore.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\obj\Debug\Sungero.ExchangeCore.Server.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCore\Sungero.ExchangeCore.Server\obj\Debug\Sungero.ExchangeCore.Server.pdb

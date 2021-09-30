@@ -1,0 +1,9 @@
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\bin\Debug\Sungero.RecordManagementUI.Client.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\bin\Debug\Sungero.RecordManagementUI.Client.pdb
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\Sungero.RecordManagementUI.ClientBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\Sungero.RecordManagementUI.Client_MarkupCompile.cache
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\Sungero.RecordManagementUI.Client_MarkupCompile.lref
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\ModuleDataTemplates.baml
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\Sungero.RecordManagementUI.Client.g.resources
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\Sungero.RecordManagementUI.Client.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagementUI\Sungero.RecordManagementUI.Client\obj\Debug\Sungero.RecordManagementUI.Client.pdb

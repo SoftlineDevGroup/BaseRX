@@ -1,0 +1,11 @@
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\bin\Debug\Sungero.FinancialArchiveUI.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\bin\Debug\Sungero.FinancialArchiveUI.Shared.pdb
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\bin\Debug\ru\Sungero.FinancialArchiveUI.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.Shared.Module.resources
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.Shared.ModuleSystem.resources
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.Shared.Module.ru.resources
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.Shared.ModuleSystem.ru.resources
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.SharedBuildTmp.csproj.GenerateResource.Cache
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\ru\Sungero.FinancialArchiveUI.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.FinancialArchiveUI\Sungero.FinancialArchiveUI.Shared\obj\Debug\Sungero.FinancialArchiveUI.Shared.pdb

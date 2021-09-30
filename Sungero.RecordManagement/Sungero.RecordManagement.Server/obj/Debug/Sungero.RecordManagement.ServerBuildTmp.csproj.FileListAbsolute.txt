@@ -1,0 +1,8 @@
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\bin\Debug\Sungero.RecordManagement.Server.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\bin\Debug\Sungero.RecordManagement.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\bin\Debug\FastReport.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\bin\Debug\Sungero.Workflow.Blocks.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\bin\Debug\Sungero.Workflow.Blocks.xml
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\obj\Debug\Sungero.RecordManagement.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\obj\Debug\Sungero.RecordManagement.Server.dll
+C:\Dev\SC\BaseRX\Sungero.RecordManagement\Sungero.RecordManagement.Server\obj\Debug\Sungero.RecordManagement.Server.pdb

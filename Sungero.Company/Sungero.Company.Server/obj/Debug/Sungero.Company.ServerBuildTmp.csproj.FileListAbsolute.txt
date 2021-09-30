@@ -1,0 +1,5 @@
+C:\Dev\SC\BaseRX\Sungero.Company\Sungero.Company.Server\bin\Debug\Sungero.Company.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Company\Sungero.Company.Server\bin\Debug\Sungero.Company.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.Company\Sungero.Company.Server\bin\Debug\FastReport.dll
+C:\Dev\SC\BaseRX\Sungero.Company\Sungero.Company.Server\obj\Debug\Sungero.Company.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Company\Sungero.Company.Server\obj\Debug\Sungero.Company.Server.pdb

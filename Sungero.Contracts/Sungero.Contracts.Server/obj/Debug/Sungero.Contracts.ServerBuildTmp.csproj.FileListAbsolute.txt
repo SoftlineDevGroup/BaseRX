@@ -1,0 +1,5 @@
+C:\Dev\SC\BaseRX\Sungero.Contracts\Sungero.Contracts.Server\bin\Debug\Sungero.Contracts.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Contracts\Sungero.Contracts.Server\bin\Debug\Sungero.Contracts.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.Contracts\Sungero.Contracts.Server\obj\Debug\Sungero.Contracts.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Contracts\Sungero.Contracts.Server\obj\Debug\Sungero.Contracts.Server.dll
+C:\Dev\SC\BaseRX\Sungero.Contracts\Sungero.Contracts.Server\obj\Debug\Sungero.Contracts.Server.pdb

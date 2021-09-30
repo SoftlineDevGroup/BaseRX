@@ -1,0 +1,9 @@
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\bin\Debug\Sungero.Shell.Client.dll
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\bin\Debug\Sungero.Shell.Client.pdb
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\Sungero.Shell.ClientBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\Sungero.Shell.Client_MarkupCompile.cache
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\Sungero.Shell.Client_MarkupCompile.lref
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\ModuleDataTemplates.baml
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\Sungero.Shell.Client.g.resources
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\Sungero.Shell.Client.dll
+C:\Dev\SC\BaseRX\Sungero.Shell\Sungero.Shell.Client\obj\Debug\Sungero.Shell.Client.pdb

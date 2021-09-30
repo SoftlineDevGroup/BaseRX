@@ -1,0 +1,9 @@
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\bin\Debug\Sungero.Integration1C.Client.dll
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\bin\Debug\Sungero.Integration1C.Client.pdb
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\Sungero.Integration1C.ClientBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\Sungero.Integration1C.Client_MarkupCompile.cache
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\Sungero.Integration1C.Client_MarkupCompile.lref
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\ModuleDataTemplates.baml
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\Sungero.Integration1C.Client.g.resources
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\Sungero.Integration1C.Client.dll
+C:\Dev\SC\BaseRX\Sungero.Integration1C\Sungero.Integration1C.Client\obj\Debug\Sungero.Integration1C.Client.pdb

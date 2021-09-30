@@ -1,0 +1,5 @@
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Server\bin\Debug\Sungero.ExchangeCoreDiadoc.Server.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Server\bin\Debug\Sungero.ExchangeCoreDiadoc.Server.pdb
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Server\obj\Debug\Sungero.ExchangeCoreDiadoc.ServerBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Server\obj\Debug\Sungero.ExchangeCoreDiadoc.Server.dll
+C:\Dev\SC\BaseRX\Sungero.ExchangeCoreDiadoc\Sungero.ExchangeCoreDiadoc.Server\obj\Debug\Sungero.ExchangeCoreDiadoc.Server.pdb
