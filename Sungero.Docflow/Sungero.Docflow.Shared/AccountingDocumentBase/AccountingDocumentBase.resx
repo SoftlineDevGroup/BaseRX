@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="NamePartForContractor" xml:space="preserve">
+    <value> with </value>
+  </data>
+  <data name="PdfStampSignIsValid" xml:space="preserve">
+    <value>Подпись соответствует файлу документа</value>
+  </data>
+  <data name="PdfStampSignIsInvalid" xml:space="preserve">
+    <value>Подпись не соответствует файлу документа</value>
+  </data>
+  <data name="ExportDocumentFolderName" xml:space="preserve">
+    <value>Export dated {0}</value>
+  </data>
+  <data name="ExportDialog_Format_Formalized" xml:space="preserve">
+    <value>In electronic form</value>
+  </data>
+  <data name="ExportDialog_Format_Print" xml:space="preserve">
+    <value>For printing</value>
+  </data>
+  <data name="ExportDialog_Group_None" xml:space="preserve">
+    <value>No grouping</value>
+  </data>
+  <data name="ExportDialog_Group_Counterparty" xml:space="preserve">
+    <value>By counterparties</value>
+  </data>
+  <data name="ExportDialog_Group_DocumentType" xml:space="preserve">
+    <value>By document types</value>
+  </data>
+  <data name="ExportDialog_Title" xml:space="preserve">
+    <value>Export Documents</value>
+  </data>
+  <data name="ExportDialog_Format" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="ExportDialog_Group" xml:space="preserve">
+    <value>Grouping</value>
+  </data>
+  <data name="ExportDialog_Exported_Name" xml:space="preserve">
+    <value>Exported</value>
+  </data>
+  <data name="ExportDialog_Exported_Default" xml:space="preserve">
+    <value>Preparing data…</value>
+  </data>
+  <data name="ExportDialog_Path" xml:space="preserve">
+    <value>Folder</value>
+  </data>
+  <data name="ExportDialog_Hyperlink_ChangePath" xml:space="preserve">
+    <value>Change folder</value>
+  </data>
+  <data name="ExportDialog_OpenDocuments" xml:space="preserve">
+    <value>Documents to export - {0}</value>
+  </data>
+  <data name="ExportDialog_Search_Show" xml:space="preserve">
+    <value>Show Documents</value>
+  </data>
+  <data name="ExportDialog_Search_DateFrom" xml:space="preserve">
+    <value>Date from</value>
+  </data>
+  <data name="ExportDialog_Search_DateTo" xml:space="preserve">
+    <value>Date to</value>
+  </data>
+  <data name="ExportDialog_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ExportDialog_Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="ExportDialog_Back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="ExportDialog_StartExport" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="ExportDialog_OpenExplorer" xml:space="preserve">
+    <value>Open Folder</value>
+  </data>
+  <data name="ExportDialog_ConfigExport" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="ExportDialog_Exported_Text" xml:space="preserve">
+    <value>{0} of {1}</value>
+  </data>
+  <data name="ExportDialog_Completed" xml:space="preserve">
+    <value>Documents have been successfully exported to folder:
+{0}</value>
+  </data>
+  <data name="ExportDialog_End_AllDocs" xml:space="preserve">
+    <value>Total documents - {0}</value>
+  </data>
+  <data name="ExportDialog_Search_DocumentKinds" xml:space="preserve">
+    <value>Doc. kind</value>
+  </data>
+  <data name="ExportDialog_Search_Contract" xml:space="preserve">
+    <value>Contract</value>
+  </data>
+  <data name="ExportDialog_End_FormalizedDocs" xml:space="preserve">
+    <value> - formalized - {0}</value>
+  </data>
+  <data name="ExportDialog_End_NonformalizedDocs" xml:space="preserve">
+    <value> - non-formalized - {0}</value>
+  </data>
+  <data name="ExportDialog_End_NotExportedDocs" xml:space="preserve">
+    <value> - not exported - {0}</value>
+  </data>
+  <data name="ExportDialog_Exported_Error" xml:space="preserve">
+    <value>Errors</value>
+  </data>
+  <data name="ExportDialog_Search_OnlySearch" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="ExportDialog_Search_Title" xml:space="preserve">
+    <value>Search in Archive</value>
+  </data>
+  <data name="ExportDialog_End_Report" xml:space="preserve">
+    <value>Export Report</value>
+  </data>
+  <data name="ExportDialog_Error_Client" xml:space="preserve">
+    <value>An error occurred while exporting document {0}</value>
+  </data>
+  <data name="ExportDialog_Error_NoVersion" xml:space="preserve">
+    <value>Document has no content</value>
+  </data>
+  <data name="ExportDialog_Error_LastSignNotFound" xml:space="preserve">
+    <value>Waiting for our signature</value>
+  </data>
+  <data name="ExportDialog_Error_Canceled" xml:space="preserve">
+    <value>Export cancelled</value>
+  </data>
+  <data name="ExportDialog_Step_Search" xml:space="preserve">
+    <value>Step {0}. Specify search criteria to export documents</value>
+  </data>
+  <data name="ExportDialog_Step_Config" xml:space="preserve">
+    <value>Step {0}. Specify settings and folder to export documents</value>
+  </data>
+  <data name="ExportDialog_Step_Process" xml:space="preserve">
+    <value>Step {0}. Wait for export to complete</value>
+  </data>
+  <data name="ExportDialog_Step_End" xml:space="preserve">
+    <value>Step {0}. Process export results</value>
+  </data>
+  <data name="ExportDialog_Error_CounterpartySignNotFound" xml:space="preserve">
+    <value>Awaiting counterparty's signature</value>
+  </data>
+  <data name="ExportDialog_CompletedNotFound" xml:space="preserve">
+    <value>Documents not found</value>
+  </data>
+  <data name="ExportDialog_CompletedNotExported" xml:space="preserve">
+    <value>Documents were not exported</value>
+  </data>
+  <data name="Adjustment" xml:space="preserve">
+    <value>Corr. </value>
+  </data>
+  <data name="NoFinancialArchiveLicense" xml:space="preserve">
+    <value>To export documents, you need a license for the "Financial Archive" module.</value>
+  </data>
+  <data name="ExportDialog_Error_InProcess" xml:space="preserve">
+    <value>Document was not exported as its printout form has not been generated yet.</value>
+  </data>
+  <data name="RefillBuyerTitleQuestion" xml:space="preserve">
+    <value>Fill in the buyer's info again?</value>
+  </data>
+  <data name="PropertiesFillingDialog_Text_Universal" xml:space="preserve">
+    <value>Specify signatory, information about acceptance of shipped goods (works performed, services provided) and describe disagreements.</value>
+  </data>
+  <data name="PropertiesFillingDialog_SignedBy" xml:space="preserve">
+    <value>Signed by</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority" xml:space="preserve">
+    <value>Authority</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_Deal" xml:space="preserve">
+    <value>Person who made the deal</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_Register" xml:space="preserve">
+    <value>Person responsible for the deal closure</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_DealAndRegister" xml:space="preserve">
+    <value>Person who made the deal and is resp. for its closure</value>
+  </data>
+  <data name="PropertiesFillingDialog_Basis" xml:space="preserve">
+    <value>Reason</value>
+  </data>
+  <data name="PropertiesFillingDialog_SigningDate" xml:space="preserve">
+    <value>Signature date</value>
+  </data>
+  <data name="PropertiesFillingDialog_Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="PropertiesFillingDialog_Result_Accepted" xml:space="preserve">
+    <value>Accepted with no disagreements</value>
+  </data>
+  <data name="PropertiesFillingDialog_Result_AcceptedWithDisagreement" xml:space="preserve">
+    <value>Accepted with disagreements</value>
+  </data>
+  <data name="PropertiesFillingDialog_Disagreement" xml:space="preserve">
+    <value>Disagreements</value>
+  </data>
+  <data name="PropertiesFillingDialog_SameConsignee" xml:space="preserve">
+    <value>Goods received by consignee</value>
+  </data>
+  <data name="PropertiesFillingDialog_Consignee" xml:space="preserve">
+    <value>Goods received by</value>
+  </data>
+  <data name="PropertiesFillingDialog_ConsigneeBasis" xml:space="preserve">
+    <value>Reason</value>
+  </data>
+  <data name="PropertiesFillingDialog_SaveAndSign" xml:space="preserve">
+    <value>Save and Sign</value>
+  </data>
+  <data name="PropertiesFillingDialog_Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="PropertiesFillingDialog_Title" xml:space="preserve">
+    <value>Fill In Buyer Information</value>
+  </data>
+  <data name="PropertiesFillingDialog_Text_UniversalCorrection" xml:space="preserve">
+    <value>Specify signatory and information about acceptance of changes in price of shipped goods (works performed, services provided).</value>
+  </data>
+  <data name="PropertiesFillingDialog_Text_Waybill" xml:space="preserve">
+    <value>Specify signatory, information about acceptance of shipped goods and describe disagreements.</value>
+  </data>
+  <data name="PropertiesFillingDialog_Text_Act" xml:space="preserve">
+    <value>Specify signatory, information about acceptance of works performed or services provided.</value>
+  </data>
+  <data name="PropertiesFillingDialog_DateApproving" xml:space="preserve">
+    <value>Approval date</value>
+  </data>
+  <data name="PropertiesFillingDialog_AdjustmentResult_AgreedChanges" xml:space="preserve">
+    <value>I agree with changes in price</value>
+  </data>
+  <data name="PropertiesFillingDialog_Error_TIN" xml:space="preserve">
+    <value>Specify TIN in the business unit card.</value>
+  </data>
+  <data name="PropertiesFillingDialog_Error_SignatoryJobTitle" xml:space="preserve">
+    <value>Specify signatory's job title.</value>
+  </data>
+  <data name="PropertiesFillingDialog_Error_ConsigneeJobTitle" xml:space="preserve">
+    <value>Specify consignee's job title.</value>
+  </data>
+  <data name="LastVersionWillBeChanged" xml:space="preserve">
+    <value>Version {0} of the document (buyer's details) will be changed.</value>
+  </data>
+  <data name="NewVersionWillBeCreated" xml:space="preserve">
+    <value>New document version will be created.</value>
+  </data>
+  <data name="FillingButtonText" xml:space="preserve">
+    <value>Fill In</value>
+  </data>
+  <data name="FillBuyerInfoAwaited" xml:space="preserve">
+    <value>Fill in buyer information if you want to specify some details about acceptance of goods (services)</value>
+  </data>
+  <data name="ExportDialog_Error_Rejected" xml:space="preserve">
+    <value>Document is rejected</value>
+  </data>
+  <data name="ExportDialog_Error_Obsolete" xml:space="preserve">
+    <value>Document is cancelled</value>
+  </data>
+  <data name="ExportDialog_Error_SellerTitleNotFound" xml:space="preserve">
+    <value>Seller's details are to be filled in</value>
+  </data>
+  <data name="ExportDialog_Error_SellerSignatureNotFound" xml:space="preserve">
+    <value>Seller's details are to be signed</value>
+  </data>
+  <data name="ExportDialog_Error_BuyerTitleNotFound" xml:space="preserve">
+    <value>Buyer's details are to be filled in</value>
+  </data>
+  <data name="ExportDialog_Error_BuyerSignNotFound" xml:space="preserve">
+    <value>Buyer's details are to be signed</value>
+  </data>
+  <data name="ErrorBuyerTitlePropertiesFilling" xml:space="preserve">
+    <value>An error occurred while saving buyer information.</value>
+  </data>
+  <data name="FillBuyerInfoOutgoingDocument" xml:space="preserve">
+    <value>You can fill in buyer information only if the document is incoming.</value>
+  </data>
+  <data name="PdfStampSignedNotSended" xml:space="preserve">
+    <value>Подписан. Требуется отправка в сервис</value>
+  </data>
+  <data name="PropertiesFillingDialog_Document" xml:space="preserve">
+    <value>Document</value>
+  </data>
+  <data name="PropertiesFillingDialog_Error_AttorneyJobTitle" xml:space="preserve">
+    <value>Specify job title of the employee who signed the power of attorney.</value>
+  </data>
+  <data name="PropertiesFillingDialog_Error_AttorneyRegistration" xml:space="preserve">
+    <value>Specify number and date of the power of attorney.</value>
+  </data>
+  <data name="PropertiesFillingDialog_Error_OtherDocument" xml:space="preserve">
+    <value>Cannot fill in buyer information. A signing authority with reason "Job description" or "Power of attorney" is required.</value>
+  </data>
+  <data name="FillSellerInfoAwaited" xml:space="preserve">
+    <value>Fill in seller information to specify extra details about the signatory</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_DealAndRegisterAndInvoiceSignatory" xml:space="preserve">
+    <value>Person resp. for deal and signing of tax inv.</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_RegisterAndInvoiceSignatory" xml:space="preserve">
+    <value>Person resp. for preparing and signing of tax inv.</value>
+  </data>
+  <data name="LastVersionSellerTitleWillBeChanged" xml:space="preserve">
+    <value>Version {0} of document (seller's info) will be changed.</value>
+  </data>
+  <data name="RefillSellerTitleQuestion" xml:space="preserve">
+    <value>Fill in the seller's info again?</value>
+  </data>
+  <data name="PropertiesFillingDialog_Text_SellerTitle" xml:space="preserve">
+    <value>Fill in seller information.</value>
+  </data>
+  <data name="PropertiesFillingDialog_SellerTitle" xml:space="preserve">
+    <value>Fill In Seller Information</value>
+  </data>
+  <data name="NeedCancelRegistrationToChangeKind" xml:space="preserve">
+    <value>To change document kind, cancel its registration.</value>
+  </data>
+  <data name="ErrorSellerTitlePropertiesFilling" xml:space="preserve">
+    <value>An error occurred when saving seller information.</value>
+  </data>
+  <data name="ExportForPrintAdditionalName" xml:space="preserve">
+    <value>_for_print</value>
+  </data>
+  <data name="ExportDocumentAddendumName" xml:space="preserve">
+    <value>{0}_Addendum</value>
+  </data>
+  <data name="ExportDialog_End_AllAddendums" xml:space="preserve">
+    <value>Total addenda - {0}</value>
+  </data>
+  <data name="ExportDialog_OpenDocumentsWithAddendums" xml:space="preserve">
+    <value>Documents to export - {0}
+Related addenda will be exported</value>
+  </data>
+  <data name="ExportDialog_Error_Client_NoReason" xml:space="preserve">
+    <value>An error occurred while exporting documents</value>
+  </data>
+  <data name="ExportDialog_Error_Imported" xml:space="preserve">
+    <value>Send the document to counterparty via exchange service</value>
+  </data>
+  <data name="ExportDialog_Error_LeadDocumentNoVersion" xml:space="preserve">
+    <value>Cannot export the main document</value>
+  </data>
+  <data name="ExportDialog_Abort" xml:space="preserve">
+    <value>Abort</value>
+  </data>
+  <data name="ExportDialog_DocumentsSuccessfullyPreparedForDownload" xml:space="preserve">
+    <value>Now you can export the documents.</value>
+  </data>
+  <data name="ExportDialog_Step_Config_Web" xml:space="preserve">
+    <value>Step {0}. Configure export parameters</value>
+  </data>
+  <data name="ExportDialog_Error_DocumentCountLimit" xml:space="preserve">
+    <value>You cannot export more than {0} documents.</value>
+  </data>
+  <data name="ExportDialog_TotalForDownload" xml:space="preserve">
+    <value>Total to export - {0} files ({1} MB)</value>
+  </data>
+  <data name="ExportDialog_Error_ExportedFilesLimit" xml:space="preserve">
+    <value>There are over {0} files to export. Correct the list of documents to export.</value>
+  </data>
+  <data name="ExportDialog_Error_ExportedSizeLimit" xml:space="preserve">
+    <value>There are over {0} MB of files to export. Correct the list of documents to export.</value>
+  </data>
+  <data name="NameForExport_ContractStatement" xml:space="preserve">
+    <value>Contr. statem.</value>
+  </data>
+  <data name="NameForExport_Waybill" xml:space="preserve">
+    <value>Waybill</value>
+  </data>
+  <data name="NameForExport_IncomingTaxInvoiceAdjustment" xml:space="preserve">
+    <value>Corr. tax inv. received</value>
+  </data>
+  <data name="NameForExport_IncomingTaxInvoce" xml:space="preserve">
+    <value>Tax inv. received</value>
+  </data>
+  <data name="NameForExport_OutgoingTaxInvoiceAdjustment" xml:space="preserve">
+    <value>Corr. tax inv. issued</value>
+  </data>
+  <data name="NameForExport_OutgoingTaxInvoice" xml:space="preserve">
+    <value>Tax inv. issued</value>
+  </data>
+  <data name="NameForExport_UTDAdjustment" xml:space="preserve">
+    <value>Univ. corr. doc.</value>
+  </data>
+  <data name="NameForExport_UTD" xml:space="preserve">
+    <value>Univ. transf. doc.</value>
+  </data>
+  <data name="NameForExport_Contract" xml:space="preserve">
+    <value>Contract</value>
+  </data>
+  <data name="NameForExport_SupAgreement" xml:space="preserve">
+    <value>Supp. agreem.</value>
+  </data>
+  <data name="ExportDialog_Step_End_Web" xml:space="preserve">
+    <value>Step {0}. Export and process the result</value>
+  </data>
+  <data name="ExportDialog_End_NotExportedDocs_Web" xml:space="preserve">
+    <value> - cannot be exported - {0}</value>
+  </data>
+  <data name="ExportDialog_End_AllDocs_Web" xml:space="preserve">
+    <value>Documents to export found - {0}</value>
+  </data>
+  <data name="ExportDialog_Step_End_Report_Web" xml:space="preserve">
+    <value>Step {0}. Read the export report</value>
+  </data>
+  <data name="ExportDialog_Error_Client_NoReason_Web" xml:space="preserve">
+    <value>An error occurred while preparing documents. Contact your system administrator.</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_SignSchf" xml:space="preserve">
+    <value>Person responsible for signing of tax invoices</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_SignSchfAndRegister" xml:space="preserve">
+    <value>Person resp. for deal closure and signing of tax invoices</value>
+  </data>
+  <data name="PropertiesFillingDialog_HasAuthority_Other" xml:space="preserve">
+    <value>Person with other authority</value>
+  </data>
+</root>

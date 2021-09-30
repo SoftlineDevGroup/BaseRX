@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{79272a15-375b-3543-336e-3db95d402659}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Sungero.Commons.Shared</RootNamespace>
+    <AssemblyName>Sungero.Commons.Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>5</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+    <LangVersion>5</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="City\City.g.cs" />
+    <Compile Include="City\CityConstants.cs" />
+    <Compile Include="City\CityHandlers.cs" />
+    <Compile Include="City\CitySharedFunctions.cs" />
+    <Compile Include="City\CityStructures.cs" />
+    <Compile Include="City\CityStructures.g.cs" />
+    <Compile Include="Country\Country.g.cs" />
+    <Compile Include="Country\CountryConstants.cs" />
+    <Compile Include="Country\CountryHandlers.cs" />
+    <Compile Include="Country\CountrySharedFunctions.cs" />
+    <Compile Include="Country\CountryStructures.cs" />
+    <Compile Include="Country\CountryStructures.g.cs" />
+    <Compile Include="Currency\Currency.g.cs" />
+    <Compile Include="Currency\CurrencyConstants.cs" />
+    <Compile Include="Currency\CurrencyHandlers.cs" />
+    <Compile Include="Currency\CurrencySharedFunctions.cs" />
+    <Compile Include="Currency\CurrencyStructures.cs" />
+    <Compile Include="Currency\CurrencyStructures.g.cs" />
+    <Compile Include="EntityRecognitionInfo%40AdditionalClassifiers\EntityRecognitionInfoAdditionalClassifiers.g.cs" />
+    <Compile Include="EntityRecognitionInfo%40Facts\EntityRecognitionInfoFacts.g.cs" />
+    <Compile Include="EntityRecognitionInfo\EntityRecognitionInfo.g.cs" />
+    <Compile Include="EntityRecognitionInfo\EntityRecognitionInfoConstants.cs" />
+    <Compile Include="EntityRecognitionInfo\EntityRecognitionInfoHandlers.cs" />
+    <Compile Include="EntityRecognitionInfo\EntityRecognitionInfoSharedFunctions.cs" />
+    <Compile Include="EntityRecognitionInfo\EntityRecognitionInfoStructures.cs" />
+    <Compile Include="EntityRecognitionInfo\EntityRecognitionInfoStructures.g.cs" />
+    <Compile Include="ExternalEntityLink\ExternalEntityLink.g.cs" />
+    <Compile Include="ExternalEntityLink\ExternalEntityLinkConstants.cs" />
+    <Compile Include="ExternalEntityLink\ExternalEntityLinkHandlers.cs" />
+    <Compile Include="ExternalEntityLink\ExternalEntityLinkSharedFunctions.cs" />
+    <Compile Include="ExternalEntityLink\ExternalEntityLinkStructures.cs" />
+    <Compile Include="ExternalEntityLink\ExternalEntityLinkStructures.g.cs" />
+    <Compile Include="Module.g.cs" />
+    <Compile Include="ModuleConstants.cs" />
+    <Compile Include="ModuleSharedFunctions.cs" />
+    <Compile Include="ModuleStructures.cs" />
+    <Compile Include="ModuleStructures.g.cs" />
+    <Compile Include="Region\Region.g.cs" />
+    <Compile Include="Region\RegionConstants.cs" />
+    <Compile Include="Region\RegionHandlers.cs" />
+    <Compile Include="Region\RegionSharedFunctions.cs" />
+    <Compile Include="Region\RegionStructures.cs" />
+    <Compile Include="Region\RegionStructures.g.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="CommonLibrary">
+      <HintPath>..\..\..\.sds\Libraries\Common\CommonLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>..\..\..\.sds\Libraries\3dParty\System.ValueTuple.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Metadata">
+      <HintPath>..\..\..\.sds\Libraries\Kernel\Sungero.Metadata.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Abstractions">
+      <HintPath>..\..\..\.sds\Libraries\3dParty\Unity.Abstractions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Domain.Shared">
+      <HintPath>..\..\..\.sds\Libraries\Kernel\Sungero.Domain.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.CoreEntities.Shared">
+      <HintPath>..\..\..\.sds\Libraries\CoreEntities\Sungero.CoreEntities.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="City\City.mtd" />
+    <EmbeddedResource Include="City\City.resx" />
+    <EmbeddedResource Include="City\City.ru.resx" />
+    <EmbeddedResource Include="City\CitySystem.resx" />
+    <EmbeddedResource Include="City\CitySystem.ru.resx" />
+    <EmbeddedResource Include="Country\Country.mtd" />
+    <EmbeddedResource Include="Country\Country.resx" />
+    <EmbeddedResource Include="Country\Country.ru.resx" />
+    <EmbeddedResource Include="Country\CountrySystem.resx" />
+    <EmbeddedResource Include="Country\CountrySystem.ru.resx" />
+    <EmbeddedResource Include="Currency\Currency.mtd" />
+    <EmbeddedResource Include="Currency\Currency.resx" />
+    <EmbeddedResource Include="Currency\Currency.ru.resx" />
+    <EmbeddedResource Include="Currency\CurrencySystem.resx" />
+    <EmbeddedResource Include="Currency\CurrencySystem.ru.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40AdditionalClassifiers\EntityRecognitionInfoAdditionalClassifiers.mtd" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40AdditionalClassifiers\EntityRecognitionInfoAdditionalClassifiers.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40AdditionalClassifiers\EntityRecognitionInfoAdditionalClassifiers.ru.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40AdditionalClassifiers\EntityRecognitionInfoAdditionalClassifiersSystem.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40AdditionalClassifiers\EntityRecognitionInfoAdditionalClassifiersSystem.ru.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40Facts\EntityRecognitionInfoFacts.mtd" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40Facts\EntityRecognitionInfoFacts.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40Facts\EntityRecognitionInfoFacts.ru.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40Facts\EntityRecognitionInfoFactsSystem.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo%40Facts\EntityRecognitionInfoFactsSystem.ru.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo\EntityRecognitionInfo.mtd" />
+    <EmbeddedResource Include="EntityRecognitionInfo\EntityRecognitionInfo.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo\EntityRecognitionInfo.ru.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo\EntityRecognitionInfoSystem.resx" />
+    <EmbeddedResource Include="EntityRecognitionInfo\EntityRecognitionInfoSystem.ru.resx" />
+    <EmbeddedResource Include="ExternalEntityLink\ExternalEntityLink.mtd" />
+    <EmbeddedResource Include="ExternalEntityLink\ExternalEntityLink.resx" />
+    <EmbeddedResource Include="ExternalEntityLink\ExternalEntityLink.ru.resx" />
+    <EmbeddedResource Include="ExternalEntityLink\ExternalEntityLinkSystem.resx" />
+    <EmbeddedResource Include="ExternalEntityLink\ExternalEntityLinkSystem.ru.resx" />
+    <EmbeddedResource Include="Module.resx" />
+    <EmbeddedResource Include="Module.ru.resx" />
+    <EmbeddedResource Include="ModuleSystem.resx" />
+    <EmbeddedResource Include="ModuleSystem.ru.resx" />
+    <EmbeddedResource Include="Region\Region.mtd" />
+    <EmbeddedResource Include="Region\Region.resx" />
+    <EmbeddedResource Include="Region\Region.ru.resx" />
+    <EmbeddedResource Include="Region\RegionSystem.resx" />
+    <EmbeddedResource Include="Region\RegionSystem.ru.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Module.mtd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\.sds\Sungero.Domain.Interfaces\Sungero.Domain.InterfacesBuildTmp.csproj">
+      <Project>{75c348f3-8b41-4177-967f-758d41a03eb6}</Project>
+      <Name>Sungero.Domain.Interfaces</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

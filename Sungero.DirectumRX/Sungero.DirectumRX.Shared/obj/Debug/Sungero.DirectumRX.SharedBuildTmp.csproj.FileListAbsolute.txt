@@ -1,0 +1,12 @@
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\bin\Debug\Sungero.DirectumRX.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\bin\Debug\Sungero.DirectumRX.Shared.pdb
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\bin\Debug\ru\Sungero.DirectumRX.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.SharedBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.Shared.Module.resources
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.Shared.ModuleSystem.resources
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.Shared.Module.ru.resources
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.Shared.ModuleSystem.ru.resources
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.SharedBuildTmp.csproj.GenerateResource.Cache
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\ru\Sungero.DirectumRX.Shared.resources.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.Shared.dll
+C:\Dev\SC\BaseRX\Sungero.DirectumRX\Sungero.DirectumRX.Shared\obj\Debug\Sungero.DirectumRX.Shared.pdb

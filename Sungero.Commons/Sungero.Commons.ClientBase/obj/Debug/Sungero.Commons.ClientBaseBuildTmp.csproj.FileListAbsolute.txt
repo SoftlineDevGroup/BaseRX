@@ -1,0 +1,6 @@
+C:\Dev\SC\BaseRX\Sungero.Commons\Sungero.Commons.ClientBase\bin\Debug\Sungero.Commons.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.Commons\Sungero.Commons.ClientBase\bin\Debug\Sungero.Commons.ClientBase.pdb
+C:\Dev\SC\BaseRX\Sungero.Commons\Sungero.Commons.ClientBase\obj\Debug\Sungero.Commons.ClientBaseBuildTmp.csprojResolveAssemblyReference.cache
+C:\Dev\SC\BaseRX\Sungero.Commons\Sungero.Commons.ClientBase\obj\Debug\Sungero.Commons.ClientBase.g.resources
+C:\Dev\SC\BaseRX\Sungero.Commons\Sungero.Commons.ClientBase\obj\Debug\Sungero.Commons.ClientBase.dll
+C:\Dev\SC\BaseRX\Sungero.Commons\Sungero.Commons.ClientBase\obj\Debug\Sungero.Commons.ClientBase.pdb
